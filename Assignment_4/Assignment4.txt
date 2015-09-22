@@ -1,0 +1,10 @@
+Write  function to do heap sort.
+
+You will enter 12 numbers in random order.
+Create an array to enter the numbers.
+Make a Heap for the numbers
+Then use heap sort to sort them
+
+1. Print the numbers before you make a heap
+2 Print the numbers after you make a heap
+3. Print the numbers after the sort is complete

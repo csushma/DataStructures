@@ -1,0 +1,6 @@
+Implement Prims Algorithm to find MST.
+Your graph must have atleast 10 nodes and atleast 15 edges.
+Submit screen shot of the program run.
+It should print
+a.the edges of the graph
+b. edges of the MST
